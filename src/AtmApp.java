@@ -10,8 +10,12 @@ public class AtmApp {
         // master
         System.out.println("Master branchinde yeni ozellikler var");
 
+<<<<<<< Updated upstream
         //nghn3
         System.out.println("nagihan branchi bir adim onde.");
+=======
+        System.out.println("bazi degisikler yaptim, ancak commitlemedim");
+>>>>>>> Stashed changes
 
     }
 }
