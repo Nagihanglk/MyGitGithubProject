@@ -10,5 +10,8 @@ public class AtmApp {
         // master
         System.out.println("Master branchinde yeni ozellikler var");
 
+        //nghn3
+        System.out.println("nagihan branchi bir adim onde.");
+
     }
 }
